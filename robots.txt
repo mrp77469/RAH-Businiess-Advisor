@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /privacy-policy.html
+Disallow: /disclaimer.html
+Disallow: /terms-and-conditions.html
+
+Sitemap: https://www.rahbusiness.pk/sitemap.xml
